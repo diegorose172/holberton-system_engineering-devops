@@ -1,3 +1,2 @@
-case 
 #!/bin/bash
 chmod u+x /tmp/hello
