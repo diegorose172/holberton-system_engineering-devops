@@ -1,1 +1,0 @@
-grep ^[[:alpha:]] /etc/ssh/sshd_config0;10;1c
